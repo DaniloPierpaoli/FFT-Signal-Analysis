@@ -32,6 +32,12 @@ Simulates a bistable potential system under varying noise strengths. The Stochas
 The objective is to ivestigate signal amplification due to noise in nonlinear systems.
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+⚠️ Due to licensing restrictions, audio and CSV data originally provided by the Open University have been omitted. You may use your own recordings or synthetic data for testing.
+
 
 Danilo Pierpaoli
 
